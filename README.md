@@ -1,3 +1,3 @@
 # cv
 
-https://Art-Orl.github.io/cv
+https://art-orl.github.io/cv/
